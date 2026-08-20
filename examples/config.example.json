@@ -1,0 +1,6 @@
+{
+  "name": "BorderRadiusLab",
+  "enabled": true,
+  "verbose": false,
+  "output_dir": "./out"
+}
